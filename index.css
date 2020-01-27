@@ -123,5 +123,12 @@ body {
   margin: 3px 0 10px;
 }
 
+.gitDiv {
+  display: none;
+}
+
+.open {
+  display: block;
+}
 
 
